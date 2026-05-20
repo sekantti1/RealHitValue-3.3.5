@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Real Hit Value
+## Notes: Modifies the character frame hit rating tooltips to reflect real values with talents.
+## Author: sekantti1
+## Version: 1.0
+
+RealHitValue.lua
