@@ -4,7 +4,7 @@ A lightweight World of Warcraft (3.3.5a) addon that modifies the default charact
 
 By default, the Wrath of the Lich King client only calculates your hit chance based on gear rating. It completely ignores flat percentage bonuses from your talents or standard raid debuffs. This addon hooks into the UI to calculate your total hit chance, showing you exactly where your stats come from and exactly how far over or under the hit cap you are.
 
-![Screenshot](https://github.com/sekantti1/RealHitValue-3.3.5/blob/master/Pictures/screenshot.jpg)
+![Screenshot](https://github.com/sekantti1/RealHitValue-3.3.5/blob/main/Pictures/screenshot.jpg)
 
 ## ✨ Features
 
@@ -23,10 +23,9 @@ By default, the Wrath of the Lich King client only calculates your hit chance ba
 
 1. Click the **Code** button and select **Download ZIP**.
 2. Extract the downloaded `.zip` file.
-3. Rename the extracted folder to `RealHitValue` (make sure it doesn't have `-main` or `-master` at the end).
-4. Move the `RealHitValue` folder into your WoW AddOns directory:
+3. Move the `RealHitValue` folder into your WoW AddOns directory:
    `World of Warcraft\Interface\AddOns\`
-5. Log into the game, ensure "Load out of date AddOns" is checked if necessary, and enable **Real Hit Value**.
+4. Log into the game, and enable **Real Hit Value**.
 
 ## 📖 Usage
 
